@@ -23,5 +23,6 @@ Using NodeJS to convert images to Black n White
 	``` 
 	gulp
 	```
+
 ## License
-MIT
+[MIT](https://github.com/mmcfadyen91/black-n-white/blob/master/LICENSE.md)
