@@ -21,6 +21,10 @@
   "homepage": "https://github.com/mmcfadyen91/black-n-white",
   "devDependencies": {
     "gm": "^1.16.0",
-    "gulp": "^3.8.8"
+    "gulp": "^3.8.8",
+    "gulp-jade": "^0.8.0",
+    "gulp-jshint": "^1.8.4",
+    "gulp-stylus": "^1.3.3",
+    "gulp-watch": "^1.0.7"
   }
 }
